@@ -1,0 +1,30 @@
+Section 1: Administrative information
+Titel: Work exposure and lung cancer in Langtbortistan
+SAP Version : 1
+Protocol version: 1
+SAP Revision: none
+Roles end responsibility: Cancer registry in Langtbortistan
+Signatures of: Ola Nordman, Chief investigator
+Section 2:  Introduction
+Background and rationale:  Investigate if work exposure to carcinogenic factors like smoke and chemicals contribute to lung cancer in Langtbortistan. If this is the case we could prevent some of the lung cancers with regulations of the working environment. 
+Objectives: Hypothesis: Work exposures contribute to a substantial amount of lung cancers.  
+Section 3: Study methods.
+Trial design: Case-control study
+Randomisation: Not relevant
+Sample Size: 1000 cases and 1000 controls
+Framework: 
+Statistical interim analysis and stopping guidance: Not relevant
+Timing of outcome assessment: All lung cancers in 2012 to 2014
+Section 4: Statistical principal
+Confidence intervals and P values:  P-value 0,05, 95% CI
+Adherence and protocol deviations:
+Analysis population:  Lung cancer patients and controls from the same neighbourhood.  
+Section 5: Trial population
+Screening data:
+Recruitment:  Lung cancer patients from the cancer registry and a matched control group recruited of persons living in the same neighbourhood.  
+Baseline patients characteristics: Age, gender, smoking, alcohol, comorbidities, medications, education, income, region.   
+Section 6 Analysis
+Outcome definitions: Working exposures to smoke and chemicals. 
+Analysis methods:  chi quadrat and odds ratio, adjusted for other known risk factors for lung cancers. Smoking and alcohol
+Missing data: Multiple imputation
+Statistical software: IBM SPSS version 22
